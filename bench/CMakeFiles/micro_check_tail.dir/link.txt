@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/micro_check_tail.dir/micro_check_tail.cpp.o  -o micro_check_tail  -Wl,-rpath,/home/heejin/impl-rocksdb/BucketLevelDB/Bucketleveldb/rocksdb-7.7.3:/home/heejin/impl-rocksdb/BucketLevelDB/Bucketleveldb/src-rocks -lsnappy -lgflags ../rocksdb-7.7.3/librocksdb.so ../src-rocks/libbucketdb.so 
